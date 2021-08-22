@@ -1,0 +1,41 @@
+	usu_doencasanteriores	varchar(50)	utf8mb4_general_ci		Não	Nenhum			Muda Muda	Elimina Elimina	
+	usu_doencasfamiliares	varchar(50)	utf8mb4_general_ci		Não	Nenhum			Muda Muda	Elimina Elimina	
+	usu_cirurgiasinternações	varchar(50)	utf8mb4_general_ci		Não	Nenhum			Muda Muda	Elimina Elimina	
+	usu_lesões	varchar(50)	utf8mb4_general_ci		Não	Nenhum			Muda Muda	Elimina Elimina	
+	usu_medicação	varchar(50)	utf8mb4_general_ci		Não	Nenhum			Muda Muda	Elimina Elimina	
+	usu_emergencia	varchar(50)	utf8mb4_general_ci		Não	Nenhum			Muda Muda	Elimina Elimina	
+	usu_telefone	varchar(15)	utf8mb4_general_ci		Não	Nenhum			Muda Muda	Elimina Elimina	
+	usu_medico	varchar(90)	utf8mb4_general_ci		Não	Nenhum			Muda Muda	Elimina Elimina	
+	usu_telefonedomédico	varchar(15)	utf8mb4_general_ci		Não	Nenhum			Muda Muda	Elimina Elimina	
+	usu_conveniomedico	varchar(50)	utf8mb4_general_ci		Não	Nenhum			Muda Muda	Elimina Elimina	
+	usu_hospitalouclinica	varchar(50)	utf8mb4_general_ci		Não	Nenhum			Muda Muda	Elimina Elimina	
+	usu_pratica	varchar(5)	utf8mb4_general_ci		Não	Nenhum			Muda Muda	Elimina Elimina	
+	usu_atividadesfisicas	varchar(50)	utf8mb4_general_ci		Não	Nenhum			Muda Muda	Elimina Elimina	
+	usu_qntsemana	int(11)			Não	Nenhum			Muda Muda	Elimina Elimina	
+Mais Mais
+	45	usu_duracaodasecao	int(11)			Não	Nenhum			Muda Muda	Elimina Elimina	
+Mais Mais
+	46	usu_intensidade2	varchar(15)	utf8mb4_general_ci		Não	Nenhum			Muda Muda	Elimina Elimina	
+Mais Mais
+	47	usu_praticou	varchar(5)	utf8mb4_general_ci		Não	Nenhum			Muda Muda	Elimina Elimina	
+Mais Mais
+	48	usu_haquantotempo	int(11)			Não	Nenhum			Muda Muda	Elimina Elimina	
+Mais Mais
+	49	usu_porquantotempo	int(11)			Não	Nenhum			Muda Muda	Elimina Elimina	
+Mais Mais
+	50	usu_qntaporsemana	int(11)			Não	Nenhum			Muda Muda	Elimina Elimina	
+Mais Mais
+	51	usu_duracao	int(11)			Não	Nenhum			Muda Muda	Elimina Elimina	
+Mais Mais
+	52	usu_intensidade	varchar(15)	utf8mb4_general_ci		Não	Nenhum			Muda Muda	Elimina Elimina	
+Mais Mais
+	53	usu_objetivos	varchar(50)	utf8mb4_general_ci		Não	Nenhum			Muda Muda	Elimina Elimina	
+Mais Mais
+	54	usu_outros	varchar(50)	utf8mb4_general_ci		Não	Nenhum			Muda Muda	Elimina Elimina	
+Mais Mais
+	55	usu_horariopfr	time			Não	Nenhum			Muda Muda	Elimina Elimina	
+	usu_atividadespfr	varchar(50)	utf8mb4_general_ci		Não	Nenhum			Muda Muda	Elimina Elimina	
+	usu_local	varchar(50)	utf8mb4_general_ci		Não	Nenhum			Muda Muda	Elimina Elimina	
+	usu_diasdasemana	varchar(50)	utf8mb4_general_ci		Não	Nenhum			Muda Muda	Elimina Elimina	
+	usu_horarios	time			Não	Nenhum			Muda Muda	Elimina Elimina	
+	usu_observacoes
